@@ -1,5 +1,3 @@
-
-
 " enter normal mode
 inoremap jf <esc>
 
